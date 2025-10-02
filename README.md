@@ -27,6 +27,8 @@ ArrayList　アレイリスト
 クラス　lei
 ラム　rom
 ロム　ram
+プリミティブ　jiben
+クラス yinyong
 
 
 オーバーロード overload
