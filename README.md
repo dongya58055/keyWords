@@ -35,3 +35,4 @@ ArrayList　アレイリスト
 オーバーロード overload
 オーバーライド override
 オーバーライト overwrite
+修飾し　しゅうしょく
