@@ -29,8 +29,9 @@ ArrayList　アレイリスト
 ロム　ram
 プリミティブ　jiben
 クラス yinyong
-
-
+基底クラス、スーパークラス、親クラス
+派生クラス、サブクラス、子クラス
+継承　けいしょう
 オーバーロード overload
 オーバーライド override
 オーバーライト overwrite
