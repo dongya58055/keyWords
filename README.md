@@ -36,3 +36,4 @@ ArrayList　アレイリスト
 オーバーライド override
 オーバーライト overwrite
 修飾し　しゅうしょく
+フィールド　成员变量
